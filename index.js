@@ -6,7 +6,7 @@ const facts = [
 ];
 
 function johnLennonFacts (facts){
-    let factsLength = facts.length; 
+    let factsLength = facts.length;
     let counter = 0;
 
     while(factsLength > counter){
